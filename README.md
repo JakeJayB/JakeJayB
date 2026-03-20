@@ -1,7 +1,6 @@
 # Jacob Bejarano
 
-B.S. Computer Science @ University of the Pacific (May 2025)
-Valedictorian | Summa Cum Laude | GPA: 4.0
+B.S. Computer Science @ University of the Pacific (May 2025)  -  Valedictorian | Summa Cum Laude | GPA: 4.0
 
 Hi, I’m Jacob. I’m an aspiring software engineer focused on building backend systems, APIs, and performance-oriented applications. I enjoy designing clean architectures, working with real-world data, and building systems that are both efficient and scalable.
 
@@ -24,7 +23,7 @@ My experience spans backend development, parallel computing, and AI technologies
 
 **Python, FastAPI, MongoDB**
 
-A layered REST API designed using a clean 3-tier architecture (repository → service → router), supporting full CRUD functionality and flexible querying.
+A layered REST API designed using a clean 3-tier architecture (router -> service -> repository), supporting full CRUD functionality and flexible querying.
 
 **Key Highlights:**
 
@@ -50,7 +49,7 @@ A layered REST API designed using a clean 3-tier architecture (repository → se
 
 ### NASA APOD Twitter/X Bot
 
-**Python, Interacting with REST APIs, Oauth, Automation**
+**Python, NASA/Twitter REST API Integration, Oauth, Automation**
 
 Currently building an automated bot that integrates with NASA’s Astronomy Picture of the Day (APOD) API to post daily content to Twitter/X.
 
