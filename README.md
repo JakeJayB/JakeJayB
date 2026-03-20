@@ -1,16 +1,88 @@
-## Hi there 👋
+# Jacob Bejarano
 
-<!--
-**JakeJayB/JakeJayB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. Computer Science @ University of the Pacific (May 2025)
+Valedictorian | Summa Cum Laude | GPA: 4.0
 
-Here are some ideas to get you started:
+Hi, I’m Jacob. I’m an aspiring software engineer focused on building backend systems, APIs, and performance-oriented applications. I enjoy designing clean architectures, working with real-world data, and building systems that are both efficient and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans backend development, parallel computing, and AI technologies. I’ve worked on everything from REST APIs and security automation to GPU-accelerated computing and LLM fine-tuning.
+
+---
+
+## Table of Contents
+
+* [Featured Projects](#featured-projects)
+* [Current Projects](#current-projects)
+* [My Technology Stack](#my-technology-stack)
+* [Connect](#connect)
+
+---
+
+## Featured Projects
+
+### Task Manager REST API
+
+**Python, FastAPI, MongoDB**
+
+A layered REST API designed using a clean 3-tier architecture (repository → service → router), supporting full CRUD functionality and flexible querying.
+
+**Key Highlights:**
+
+* Designed modular backend architecture separating data access, business logic, and routing
+* Implemented 6 REST endpoints with full CRUD + PATCH support
+* Added query filtering by task status and priority
+* Integrated MongoDB with async PyMongo for persistent storage
+* Enforced data validation with Pydantic schemas
+* Achieved low-latency responses (~20ms average)
+
+**Features:**
+
+* Create, read, update, and delete tasks
+* Filter tasks using query parameters (`completed`, `priority`)
+* Dual implementations:
+
+  * In-memory version (for simplicity/testing)
+  * MongoDB-backed version (for persistence)
+
+---
+
+## Current Projects
+
+### NASA APOD Twitter/X Bot
+
+**Python, Interacting with REST APIs, Oauth, Automation**
+
+Currently building an automated bot that integrates with NASA’s Astronomy Picture of the Day (APOD) API to post daily content to Twitter/X.
+
+**What I'm working on:**
+
+* API integration with NASA APOD and Twitter/X
+* Automated scheduling and posting pipeline
+* Reliability and error-handling for daily execution
+
+---
+
+## My Technology Stack
+
+**Languages:**
+Python, JavaScript, C, Java, HTML, CSS, Bash 
+
+**Backend & APIs:**
+FastAPI, REST API design, Pydantic
+
+**Databases:**
+MongoDB, SQLite
+
+**Systems & Parallel Computing:**
+CUDA, OpenMP, Open MPI, Pthreads
+
+**Tools & Workflow:**
+Docker, Git, GitHub, Linux, JSON
+
+---
+
+## Connect
+
+* GitHub: https://github.com/JakeJayB
+* LinkedIn: https://linkedin.com/in/jacobjbejarano
+* Email: [jacobjbejarano@gmail.com](mailto:jacobjbejarano@gmail.com)
