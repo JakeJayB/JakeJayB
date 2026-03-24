@@ -47,17 +47,19 @@ A layered REST API designed using a clean 3-tier architecture (router -> service
 
 ## Current Projects
 
-### NASA APOD Twitter/X Bot
+### NASA APOD Reddit Bot
 
-**Python, NASA/Twitter REST API Integration, Oauth, Automation**
+**Python, REST APIs (NASA APOD, Reddit, Imgur), Oauth, Automation**
 
-Currently building an automated bot that integrates with NASA’s Astronomy Picture of the Day (APOD) API to post daily content to Twitter/X.
+Currently building an automated bot that integrates with NASA’s Astronomy Picture of the Day (APOD) API to post daily content to Reddit.
+
+Currently developing an automated bot that retrieves NASA’s Astronomy Picture of the Day (APOD), stores the media via Imgur, and publishes content to Reddit daily.
 
 **What I'm working on:**
 
-* API integration with NASA APOD and Twitter/X
-* Automated scheduling and posting pipeline
-* Reliability and error-handling for daily execution
+* Integrating multiple APIs (NASA APOD, Reddit, Imgur) into a unified workflow
+* Building an automated daily posting system with scheduling and execution handling
+* Uploading and hosting APOD images on Imgur for reliable external linking
 
 ---
 
